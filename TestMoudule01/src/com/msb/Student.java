@@ -11,4 +11,5 @@ public class Student {
     private String name;
     private String sex;
     private double maney;
+    private double height；
 }
