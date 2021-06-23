@@ -10,6 +10,6 @@ public class Student {
     private int age;
     private String name;
     private String sex;
-    private double mama11;
+    private double mama22;
     private double time1;
 }
