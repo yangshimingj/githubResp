@@ -11,5 +11,5 @@ public class Student {
     private String name;
     private String sex;
     private double mama;
-    private double time;
+    private double time1;
 }
